@@ -1,0 +1,15 @@
+body {
+    color:red;
+    margin:20px;
+}
+#container {
+    background-color:aliceblue;
+    padding:20px;
+}
+.bluemode {
+    padding:15px;
+    background-color: rgb(142, 118, 203);
+}
+.toDo {
+    padding:10px;
+}
